@@ -1,4 +1,4 @@
-# 🍯 SSH Honeypot + Live Dashboard
+# SSH Honeypot + Live Dashboard
 
 A fake SSH server that captures real-world attacker behaviour 
 and visualises it through a live web dashboard.
